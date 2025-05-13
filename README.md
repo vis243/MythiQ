@@ -80,4 +80,4 @@ Inspired by ancient Indian philosophy and modern AI. Special thanks to:
 
 ## ✨ Author
 
-Made with ❤️ by [Vishnu](#) — aspiring AI Engineer and mythology enthusiast.
+Made with ❤️ by [vis243](#) — aspiring AI Engineer and mythology enthusiast.
